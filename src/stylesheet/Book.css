@@ -1,0 +1,25 @@
+.Book{
+    border: 2px solid black;
+    border-radius: 8px;
+    padding:20px;
+    display: inline-block;
+    width: 500px;
+    margin: 10px;
+}
+.Book h3{
+    padding: 10px;
+    
+}
+.Book h4{
+    padding: 10px;
+}
+.Book input{
+    margin: 10px;
+}
+h1{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    font-size: 4vw;
+    border: 1px solid red;
+}
